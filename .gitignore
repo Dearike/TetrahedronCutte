@@ -1,0 +1,18 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]in/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+/Library
+*.sln
+*.userprefs
+*.user
+*.lock
+.idea
+.vs/
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
